@@ -5,7 +5,7 @@
 Customer churn is one of the biggest challenges for subscription-based and service-based businesses.
 This project focuses on analyzing customer behavior and building a machine learning model to predict whether a customer is likely to churn.
 
-The project combines **SQL, Python, and Power BI** to perform end-to-end analysis — from data cleaning to business dashboard visualization.
+The project combines **SQL, Python, and Power BI** to perform end-to-end analysis from data cleaning to business dashboard visualization.
 
 ---
 
